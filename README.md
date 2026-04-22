@@ -1,4 +1,4 @@
-## Olá, me chamo Joao Alves, sou programador e apaixonado por tecnologia! 👋
+## Olá, me chamo Joao Alves, sou desenvolvedor e apaixonado por tecnologia! 👋
 
 ## 🧑🏽‍💻 Um pouquinho sobre mim:
 <div>
