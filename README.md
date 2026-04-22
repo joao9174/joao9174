@@ -1,16 +1,21 @@
-## Hi there 👋
+## Ola, me chamo Joao Alves, sou programador e apaixonado por tecnologia! 👋
 
-<!--
-**joao9174/joao9174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑🏽‍💻 Um pouquinho sobre mim:
+<div>
+  <p>
+    Sou Programdor e estudante de Engenharia de Software, considero-me uma pessoa responsável e ordenada. Buscando novos conhecimento na área de tecnologia, com experiência no desenvolvimento de sites 
+    Web utilizando as tecnologias atuais do mercado para construção de sistemas Web responsivos, 
+    modernos e adaptáveis (Conhecimentos em: AWS, NodeJS, React Native, Bootstrap, HTML5, CSS3, JavaScript, Python e redes de computadores).
+  </p>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏽‍💻🚀 Minhas Tecnologias  
+  
+<div style="display: inline_block">
+  <img align="center" alt="AWS" height="30" width="40" 
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />  
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div><br>
